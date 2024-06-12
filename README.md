@@ -24,7 +24,7 @@ Note Taker is a web application that allows users to write, save, and delete not
     node server.js
 
 ## Usage 
-1. Open your browser and navigate to http://localhost:3000.
+1. Open your browser and navigate to https://note-taker-bxwk.onrender.com/
 
 2. Click the "Get Started" button to view and manage your notes.
 
