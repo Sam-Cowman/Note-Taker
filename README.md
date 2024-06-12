@@ -13,6 +13,15 @@ Note Taker is a simple application that allows users to write, save, and delete 
 - [License](#license)
 - [Questions](#questions)
 
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone git@github.com:Sam-Cowman/Note-Taker.git
+
+## Deployment 
+    on Render-ask about steps to do this 
+
+## Screenshots 
 
 ## License
 No License 
