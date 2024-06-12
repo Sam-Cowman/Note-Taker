@@ -1,4 +1,4 @@
-// routes/apiroutes.js
+
 const fs = require('fs'); // Import file system module
 const path = require('path'); // Import path module
 const router = require('express').Router(); // Create a new router object from Express

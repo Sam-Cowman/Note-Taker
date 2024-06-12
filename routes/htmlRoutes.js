@@ -1,4 +1,4 @@
-// routes/htmlRoutes.js
+
 const path = require('path'); // Import path module
 const router = require('express').Router(); // Create a new router object from Express
 
